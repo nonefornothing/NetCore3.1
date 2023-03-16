@@ -1,0 +1,13 @@
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\bin\Debug\netcoreapp3.1\MyApp.exe
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\bin\Debug\netcoreapp3.1\MyApp.deps.json
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.json
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.dev.json
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\bin\Debug\netcoreapp3.1\MyApp.dll
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\bin\Debug\netcoreapp3.1\MyApp.pdb
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfoInputs.cache
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfo.cs
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CoreCompileInputs.cache
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\obj\Debug\netcoreapp3.1\MyApp.dll
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\obj\Debug\netcoreapp3.1\MyApp.pdb
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\obj\Debug\netcoreapp3.1\MyApp.genruntimeconfig.cache
+D:\Project Pelatihan\NetCore3.1\helloworld\MyApp\obj\Debug\netcoreapp3.1\MyApp.csprojAssemblyReference.cache
