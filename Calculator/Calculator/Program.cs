@@ -2,7 +2,7 @@
 
 namespace Calculator
 {
-    class Program
+    class Calculator
     {
 
         static void Main(string[] args)
@@ -53,7 +53,7 @@ namespace Calculator
 
                 try
                 {
-                    result = Calculator.DoOperation(cleanNum1, cleanNum2);
+                    result = Operation.DoOperation(cleanNum1, cleanNum2);
                     if (double.IsNaN(result))
                     {
                         Console.WriteLine("This operation will result in a mathematical error.\n");
@@ -78,7 +78,7 @@ namespace Calculator
         }
     }
 
-    class Calculator
+    class Operation
     {
         public static double DoOperation(double num1, double num2)
         {
@@ -116,7 +116,6 @@ namespace Calculator
                     op = Console.ReadLine();
                 }
             }
-
 
             return result;
         }
