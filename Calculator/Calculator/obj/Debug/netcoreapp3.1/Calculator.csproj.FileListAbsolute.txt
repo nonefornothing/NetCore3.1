@@ -1,0 +1,13 @@
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\Project Pelatihan\NetCore3.1\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
